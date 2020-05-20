@@ -12,6 +12,7 @@ As stated above this is an example to show different parts of the git repository
 This is a simple web project, deployment can be on any web server or even local file system.
 ## How to contribute
 
+Please fork this repository and then issue a Pull Request
 ### Copyright
 
 2014 Git.Training.
